@@ -1,0 +1,4 @@
+# arquivos do nodejs
+
+./node_modules
+*.json
