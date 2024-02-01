@@ -1,5 +1,5 @@
 # arquivos do nodejs
 
 # ignore all files in the node_modules/ directory and any of its subdirectories
-node_modules/**/*.*
+node_modules/
 *.json
