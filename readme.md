@@ -1,14 +1,14 @@
-### Projeto Exemplo
-Repositório criado com o objetivo de compartilhar os projetos desenvolvidos no programa Entra21. 
+### Projeto Controle de Estoque
+Repositório criado com o objetivo de compartilhar o projeto desenvolvido no programa Entra21. 
 ### :rocket: Descrição
-"O programa Entra21 visa a formação de profissionais qualificados para trabalhar na área de desenvovimento de sistemas."
+"O programa visa o cotrole de estoque de apenas uma peça, através das opções de compra e venda."
 
 ### 👨‍💻️ Tecnologias Utilizadas
 Esse projeto foi criado utilizando as tecnologias:
 ### Front-End
-- [html5](https://www.w3schools.com/html/)
+- [HTML5](https://www.w3schools.com/html/)
 
-- [css](https://www.w3schools.com/css/)
+- [CSS3](https://www.w3schools.com/css/)
 
 - [JavaScript](https://www.javascript.com/)
 
@@ -22,7 +22,7 @@ Clone o projeto com o comando abaixo:
 ```bash
   # Clone o repositório
   ❯ git clone 
-https://github.com/[usuario]/[nome-projeto].git
+https://github.com/Eboscatto/controle-de-estoque.git
 	# Entre no diretório
   ❯ cd [nome-projeto]
 	# Execute o projeto
